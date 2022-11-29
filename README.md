@@ -14,15 +14,8 @@ kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku be
 Dengan membuatkan suatu aplikasi untuk mengatur keuangan harian yang dapat digunakan pada perangkat moblie.
 
 # Rancangan Aplikasi
-Flowchart Sistem Baru
-<br>
 ![flowchart](https://user-images.githubusercontent.com/103571115/204440062-44c9e8ea-6773-47c0-9cdc-d2697ce2942d.png)
-ERD (Entity Relationship Diagram)
-<br>
-<br>
 ![erdd](https://user-images.githubusercontent.com/103571115/204448852-5c7612ea-c1e6-4970-9ba9-f7034d5ffe55.png)
-Usecase
-<br>
 ![usecase](https://user-images.githubusercontent.com/103571115/204440102-3066fb25-71b7-4075-9a9a-374391f14b10.png)
 
 # Dokumentasi Dengan Mitra
