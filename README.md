@@ -22,7 +22,6 @@ Dengan membuatkan suatu aplikasi untuk mengatur keuangan harian yang dapat digun
 <br>
 <br>
 <br>
-<br>
 ![erdd](https://user-images.githubusercontent.com/103571115/204448852-5c7612ea-c1e6-4970-9ba9-f7034d5ffe55.png)
 
 # Dokumentasi Dengan Mitra
