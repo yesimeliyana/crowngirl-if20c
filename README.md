@@ -3,9 +3,9 @@
 Sukamaju TB merupakan toko yang didirikan oleh bapak ... 
 <br>
 # Masalah
-<align="justify">Masalah yang sering terjadi di toko bangunan ini adalah Pencatatan uang keluar dan masuk yang masih dilakukan secara manual,
+Masalah yang sering terjadi di toko bangunan ini adalah Pencatatan uang keluar dan masuk yang masih dilakukan secara manual,
 contohnya seperti pembeli datang membeli barang, kemudian melakukan pembayaran, setelah itu penjual menerima uang dan mecatat uang dibuku besar, 
-kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku besar akan mudah usang, terkena air, ataupun hilang.</align>
+kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku besar akan mudah usang, terkena air, ataupun hilang.
 <br>
 # Solusi
 
