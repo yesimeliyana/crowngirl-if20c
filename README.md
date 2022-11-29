@@ -1,14 +1,12 @@
 # crowngirl-if20c
 # Latar Belakang
-Sukamaju TB merupakan toko yang didirikan oleh bapak ... 
+Sukamaju TB merupakan toko yang didirikan oleh bapak ..., toko bangunan ini beralamat di Jl. Padat Karya, No. 4444, Sukamaju, Natar, Lampung Selatan. Sukamaju TB merupakan toko yang bergerak di bidang penjualan bahan-bahan material bangunan seperti perkakas rumah tangga, besi, semen, baja ringan, batako, pasir dan lain sebagainya. Pada saat ini, Sukamaju TB sudah banyak dikenali oleh masyarakat khususnya masyarakat natar terutama bagi yang ingin membuat atau merehap rumah.
 
 # Tujuan Aplikasi
 Tujuan dibuatnya aplikasi Cakasku ini adalah untuk membantu pihak toko bangunan dalam mencatat pengeluaran dan pemasukan pada toko.
 
 # Masalah
-Masalah yang sering terjadi di toko bangunan ini adalah Pencatatan uang keluar dan masuk yang masih dilakukan secara manual,
-contohnya seperti pembeli datang membeli barang, kemudian melakukan pembayaran, setelah itu penjual menerima uang dan mecatat uang dibuku besar, 
-kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku besar akan mudah usang, terkena air, ataupun hilang.
+Masalah yang sering terjadi di toko bangunan ini adalah Pencatatan uang keluar dan masuk yang masih dilakukan secara manual, contohnya seperti pembeli datang membeli barang, kemudian melakukan pembayaran, setelah itu penjual menerima uang dan mecatat uang dibuku besar, kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku besar akan mudah usang, terkena air, ataupun hilang.
 
 # Solusi
 Dengan membuatkan suatu aplikasi untuk mengatur keuangan harian yang dapat digunakan pada perangkat moblie.
