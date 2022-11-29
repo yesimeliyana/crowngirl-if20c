@@ -2,13 +2,16 @@
 # Latar Belakang
 Sukamaju TB merupakan toko yang didirikan oleh bapak ... 
 
+# Tujuan Aplikasi
+Tujuan dibuatnya aplikasi Cakasku ini adalah untuk membantu pihak toko bangunan dalam mencatat pengeluaran dan pemasukan pada toko.
+
 # Masalah
 Masalah yang sering terjadi di toko bangunan ini adalah Pencatatan uang keluar dan masuk yang masih dilakukan secara manual,
 contohnya seperti pembeli datang membeli barang, kemudian melakukan pembayaran, setelah itu penjual menerima uang dan mecatat uang dibuku besar, 
 kendala yang mungkin terjadi ketika masih menggunakan system lama adalah buku besar akan mudah usang, terkena air, ataupun hilang.
 
 # Solusi
-
+Dengan membuatkan suatu aplikasi untuk mengatur keuangan harian yang dapat digunakan pada perangkat moblie.
 
 ![flowchart](https://user-images.githubusercontent.com/103571115/204440062-44c9e8ea-6773-47c0-9cdc-d2697ce2942d.png)
 ![erd](https://user-images.githubusercontent.com/103571115/204440057-9e7fd19d-4ff2-4720-9510-ae4f08741443.png)
