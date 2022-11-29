@@ -17,7 +17,7 @@ Dengan membuatkan suatu aplikasi untuk mengatur keuangan harian yang dapat digun
 Flowchart Sistem Baru
 ![flowchart](https://user-images.githubusercontent.com/103571115/204440062-44c9e8ea-6773-47c0-9cdc-d2697ce2942d.png)
 ERD (Entity Relationship Diagram)
-![erd](https://user-images.githubusercontent.com/103571115/204440057-9e7fd19d-4ff2-4720-9510-ae4f08741443.png)
+![erdd](https://user-images.githubusercontent.com/103571115/204448852-5c7612ea-c1e6-4970-9ba9-f7034d5ffe55.png)
 Usecase
 ![usecase](https://user-images.githubusercontent.com/103571115/204440102-3066fb25-71b7-4075-9a9a-374391f14b10.png)
 
