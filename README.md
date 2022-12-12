@@ -1,6 +1,6 @@
 # crowngirl-if20c
 # Latar Belakang
-Sukamaju TB merupakan toko yang didirikan oleh bapak ..., toko bangunan ini beralamat di Jl. Padat Karya, No. 4444, Sukamaju, Natar, Lampung Selatan. Sukamaju TB merupakan toko yang bergerak di bidang penjualan bahan-bahan material bangunan seperti perkakas rumah tangga, besi, semen, baja ringan, batako, pasir dan lain sebagainya. Pada saat ini, Sukamaju TB sudah banyak dikenali oleh masyarakat khususnya masyarakat natar terutama bagi yang ingin membuat atau merehap rumah.
+Sukamaju TB merupakan toko yang didirikan oleh bapak Abdul Kadir Jaelani, toko bangunan ini beralamat di Jl. Padat Karya, No. 4444, Sukamaju, Natar, Lampung Selatan. Sukamaju TB merupakan toko yang bergerak di bidang penjualan bahan-bahan material bangunan seperti perkakas rumah tangga, besi, semen, baja ringan, batako, pasir dan lain sebagainya. Pada saat ini, Sukamaju TB sudah banyak dikenali oleh masyarakat khususnya masyarakat natar terutama bagi yang ingin membuat atau merehap rumah.
 
 # Tujuan Aplikasi
 Tujuan dibuatnya aplikasi Cakasku ini adalah untuk membantu pihak toko bangunan dalam mencatat pengeluaran dan pemasukan pada toko.
